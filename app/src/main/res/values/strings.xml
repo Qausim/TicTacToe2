@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="x_turn">X\'s turn</string>
+    <string name="o_turn">O\'s turn</string>
+    <string name="x_wins">X wins!</string>
+    <string name="o_wins">O wins!</string>
+    <string name="reset">reset</string>
+    <string name="single_player">vs. Bot</string>
+    <string name="double_player">vs. Human</string>
+    <string name="play_x">Play as X</string>
+    <string name="play_o">Play as O</string>
+    <string name="draw">Draw!</string>
+    <string name="play_5by5">Play 5 by 5</string>
+    <string name="play_3by3">Play 3 by 3</string>
+    <string name="title_main_activity">Tic-Tac-Toe</string>
+</resources>
