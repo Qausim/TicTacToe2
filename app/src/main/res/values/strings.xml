@@ -12,5 +12,5 @@
     <string name="draw">Draw!</string>
     <string name="play_5by5">Play 5 by 5</string>
     <string name="play_3by3">Play 3 by 3</string>
-    <string name="title_main_activity">Tic-Tac-Toe</string>
+    <string name="title_main_activity">Tic Tac Toe</string>
 </resources>
